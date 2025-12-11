@@ -53,6 +53,10 @@
     font-size: 20px;
     font-family: tahoma;
 }
+.center {
+    text-align: center;
+}
+
 
 #icons {
     margin-right: 3px;
